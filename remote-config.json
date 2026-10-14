@@ -5,6 +5,6 @@
     "zhipu": ["glm-4.6v-flash"],
     "groq": ["qwen/qwen3.8-27b", "qwen/qwen3.6-27b"]
   },
-  "pagesPerRequest": 8,
+  "pagesPerRequest": 4,
   "maxImages": { "groq": 3, "nvidia": 1 }
 }
